@@ -1,5 +1,5 @@
 # CISC4900_Log
-Nafisa Anzum and Sabina Ismailove
+Nafisa Anzum and Sabina Ismailova
 
 Week#	| Week Starting	| Progress
 ------|---------------|---------
